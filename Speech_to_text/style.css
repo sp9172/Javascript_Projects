@@ -1,0 +1,43 @@
+html, body {
+    height: 100%; 
+    margin: 0; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    background-color: #f0f0f0; 
+}
+
+.container {
+    text-align: center;
+    perspective: 1000px;
+    padding: 20px;
+    background-color: white; 
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); 
+}
+
+.btn-container {
+    display: inline-flex;
+    gap: 20px; 
+}
+
+.btn {
+    background-color: #6200ea; 
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 20px;
+    font-size: 24px;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s; 
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); 
+}
+
+.btn:hover {
+    transform: translateY(-5px) rotateX(10deg); 
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5); 
+}
+
+.btn:active {
+    transform: translateY(2px) rotateX(0deg); 
+}
