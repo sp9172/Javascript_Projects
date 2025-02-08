@@ -8,13 +8,6 @@
 
 # Technologies Used
 
- HTML
-CSS
+HTML,
+CSS,
 JavaScript 
-
-
-# Project 2 Digital Clock
-
-A simple digital clock created using HTML, CSS, and JavaScript.
-In this project, the Date() function methods are used to show the current time and date in real-time.
-Added google font for text desing.
