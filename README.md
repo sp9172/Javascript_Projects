@@ -3,4 +3,4 @@
 
 HTML,
 CSS,
-JavaScript,
+JavaScript.
