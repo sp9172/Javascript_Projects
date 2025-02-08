@@ -1,2 +1,2 @@
-# Javascript_30_Projects
+# Javascript_Projects
  
