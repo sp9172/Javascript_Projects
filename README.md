@@ -4,10 +4,10 @@
 
 # Description
 
-<!-- A simple Speech-to-Text Converter built using HTML, CSS, and JavaScript. This application allows users to convert their spoken words into text in real time. -->
+ A simple Speech-to-Text Converter built using HTML, CSS, and JavaScript. This application allows users to convert their spoken words into text in real time. 
 
 # Technologies Used
 
-<!-- HTML
+ HTML
 CSS
-JavaScript -->
+JavaScript 
